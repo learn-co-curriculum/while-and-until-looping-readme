@@ -43,15 +43,15 @@ end
 
 puts "You ate a total of #{num_of_hotdogs_eaten} hot dogs!"
 
-# => "You have now eaten 1 hot dog(s)."
-# => "You have now eaten 2 hot dog(s)."
-# => "You have now eaten 3 hot dog(s)."
-# => "You have now eaten 4 hot dog(s)."
-# => "You have now eaten 5 hot dog(s)."
-# => "You have now eaten 6 hot dog(s)."
-# => "You have now eaten 7 hot dog(s)."
+"You have now eaten 1 hot dog(s)."
+"You have now eaten 2 hot dog(s)."
+"You have now eaten 3 hot dog(s)."
+"You have now eaten 4 hot dog(s)."
+"You have now eaten 5 hot dog(s)."
+"You have now eaten 6 hot dog(s)."
+"You have now eaten 7 hot dog(s)."
 
-# => "You ate a total of 7 hot dogs!"
+"You ate a total of 7 hot dogs!"
 ```
 
 ## `until`
