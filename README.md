@@ -7,7 +7,7 @@
 
 ## `while`
 
-The `while` construct is a little different from the first two constructs (`loop` and `times`) that we looked at earlier. The `while` construct will keep executing a block as long as a specific condition is `true`.
+The `while` construct is a little different from the loop construct that we looked at earlier. The `while` construct will keep executing a block as long as a specific condition is `true`.
 
 Remember our long and repetitiously-counting code that used `if` statements to count from `0` to `20`? Well, we can refactor that into simple, readable, *short* code with the `while` construct:
 
