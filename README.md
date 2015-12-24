@@ -2,14 +2,14 @@
 
 ## Objectives
 
-1. Understand the `while` construct and how it implements looping
-2. Understand the `until` looping construct 
+1. Describe the `while` construct and how it implements looping
+2. Describe the `until` looping construct 
 
 ## `while`
 
 The `while` construct is a little different from the loop construct that we looked at earlier. The `while` construct will keep executing a block as long as a specific condition is `true`.
 
-Remember our long and repetitiously-counting code that used `if` statements to count from `0` to `20`? Well, we can refactor that into simple, readable, *short* code with the `while` construct:
+Let's look at a long and repetitiously-counting code that uses `if` statements to count from `0` to `20`? Well, we can refactor that into simple, readable, *short* code with the `while` construct:
 
 ```ruby
 counter = 0
@@ -25,13 +25,13 @@ Think about the above code like this:
 *  Inside the block, `puts` a phrase, and increment the counter by one.
 *  Go back to the top! Check to see if the `counter` is less than `20`. If it is true that the value is less than `20`, go back into the block. Otherwise, break out of the loop and don't execute the code inside the loop.
 
-We can achieve all of that with just a few lines of code utilizing a `while` construct.
+We can achieve all of that with just a few lines of code utilizing a `while` construct. Go ahead and copy and paste the above code in irb. 
 
 ## Examples
 
-#### Basic `while` Example: Hot Dog Eating Contest
+### Basic `while` Example: Hot Dog Eating Contest
 
-Let's say you are a world famous competitive eater participating in the Coney Island Nathan's Hot Dog Eating Contest. You're kind of new to the competitive eating game though, so you only have the capacity for seven (7) hot dogs.
+Let's say you are a world famous competitive eater participating in the Coney Island Nathan's Hot Dog Eating Contest in Brooklyn, NY. You're kind of new to the competitive eating game though, so you only have the capacity for seven (7) hot dogs.
 
 
 ```ruby
