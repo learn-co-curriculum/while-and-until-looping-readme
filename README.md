@@ -73,6 +73,6 @@ end
 
 * The counter once again starts at `0`. If it is *not* true that the counter is equal to `20`, the program will execute the code in the block.
 * Inside the block, we will `puts` a phrase and increment the counter by `1`.
-* Then, the program will go back to the top of the `until` loop and once again check to see if the counter is equal to `20`. If it is *not* true that the counter is equal to `20`, then the program will execute the code in the block. Otherwise, the program will break out of the loop.
+* Then, the program will go back to the top of the `until` loop and once again check to see if the counter is equal to `20`. If it is *not* true that the counter is equal to `20`, then the program will continue executing the code in the block. Otherwise, the program will break out of the loop.
 
 <a href='https://learn.co/lessons/while-and-until-looping-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
