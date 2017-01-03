@@ -9,7 +9,7 @@
 
 The `while` construct is a little different from the loop construct that we looked at earlier. The `while` construct will keep executing a block as long as a specific condition is `true`.
 
-Let's look at a long and repetitiously-counting code that uses `if` statements to count from `0` to `20` and outputs "The current number is less than 20." if so. Well, we can refactor that into simple, readable, *short* code with the `while` construct:
+Let's look at a long and repetitiously-counting code that uses `if` statements to count from `0` to `20` and outputs "The current number is less than 20," if so. Well, we can refactor that into simple, readable, *short* code with the `while` construct:
 
 ```ruby
 counter = 0
@@ -76,3 +76,5 @@ end
 * Then, the program will go back to the top of the `until` loop and once again check to see if the counter is equal to `20`. If it is *not* true that the counter is equal to `20`, then the program will continue executing the code in the block. Otherwise, the program will break out of the loop.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/while-and-until-looping-readme' title='The while and until Constructs'>The while and until Constructs</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/while-and-until-looping-readme'>While and Until Loops</a> on Learn.co and start learning to code for free.</p>
