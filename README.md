@@ -5,7 +5,6 @@
 1. Describe the `while` construct and how it implements looping
 2. Describe the `until` looping construct 
 
-
 ## `while`
 
 The `while` construct is a little different from the loop construct that we looked at earlier. The `while` construct will keep executing a block as long as a specific condition is `true`.
