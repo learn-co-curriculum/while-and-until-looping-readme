@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Describe the `while` construct and how it implements looping
-2. Describe the `until` looping construct 
+2. Describe the `until` looping construct
 
 ## `while`
 
